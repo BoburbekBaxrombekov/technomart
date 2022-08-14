@@ -1,6 +1,6 @@
 #DOCUMENTATION
 
-LINK FOR BACKEND: "https://mobile-appbackend.herokuapp.com/"
+LINK FOR BACKEND: "https://technomart-portfolio.herokuapp.com/"
 
 PRODUCT MODEL:
 
